@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 60" width="920" height="240">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 68" width="1240" height="272">
   <title>Nexus Wordmark — Dark</title>
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&amp;display=swap');
-    </style>
-  </defs>
-  <g transform="translate(-4,-4) scale(0.6522)">
-    <path fill-rule="evenodd"
-          d="M50,4 L96,50 L50,96 L4,50 Z M50,26 L74,50 L50,74 L26,50 Z"
-          fill="#FFFFFF"/>
+  <defs><style>@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&amp;display=swap');</style></defs>
+  <g transform="translate(1.391,1.391) scale(0.6522)">
+    <path fill-rule="evenodd" d="M50,4 L96,50 L50,96 L4,50 Z M50,26 L74,50 L50,74 L26,50 Z" fill="#FFFFFF"/>
   </g>
-  <text x="76" y="47"
-        font-family="'Barlow Condensed', 'Futura', 'Century Gothic', 'Gill Sans', sans-serif"
-        font-weight="600"
-        font-size="46"
-        letter-spacing="5.5"
-        fill="#FFFFFF">NEXUS</text>
+  <text x="80" y="50" font-family="'Barlow Condensed', 'Futura', 'Century Gothic', 'Gill Sans', sans-serif" font-weight="600" font-size="46" letter-spacing="5.5" fill="#FFFFFF">NEXUS</text>
 </svg>
